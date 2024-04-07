@@ -1,0 +1,137 @@
+*{
+    background-image: url(bg.png);
+    margin: 0px;
+    background-size: cover;
+    background-position: center;
+    text-decoration: none;
+}
+.nav{
+    height: 124px;
+    background-color: #1fc930;
+    background-image: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+  }
+.logo{
+    height: 100px;
+    padding-top: 12px;
+    margin-right: 10px;
+    margin-left: 10px;
+    display: flex;
+    justify-self: left;
+    background-image: none;
+  
+  }
+.txt{
+    display: flex;
+    background: #1fc930;
+    font-family: "Jomhuria", serif;
+    padding-top: 25px;
+    justify-self: left;
+    font-size: 95px;
+    color: white;
+    font-weight: 200;
+  
+  }
+  nav{
+    height: 60px;
+    background-image: none;
+    color:white;
+    display:flex;  /*this is used so that every thing come in a straight line in the navbar*/
+    align-items:center;
+    justify-content: space-evenly;
+    margin-top: 60px;
+}
+.first{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-image: none;
+}
+.box{
+    border: 3px solid white;
+    border-radius: 25px;
+    padding: 10px 40px;
+    background-color:#1fc930;
+    background-image: none;
+}
+.box h2{
+    background-color: #1fc930;
+    background-image: none;
+}
+.box-suas{
+    margin-right: 420px;
+}
+nav2{
+    height: 100px;
+    width: 100px;
+    background-image: none;
+    color:white;
+    display:flex;  /*this is used so that every thing come in a straight line in the navbar*/
+    align-items:center;
+    justify-content: space-evenly;
+    margin-top: 130px;
+    margin-left: 110px;
+}
+.log{
+    border: 5px solid white;
+    border-radius: 15px;
+    padding: 80px;
+    background-image: none;
+}
+.slog{
+    margin-left: 130px;
+    background-image: none;
+}
+.elog{
+    margin-left: 180px;
+    background-image: none;
+}
+.log a{
+    color: white;
+    font-size: 15px;
+    background-image: none;
+}
+.line{
+    border:5px solid white;
+    border-radius: 0px;
+    height: 280px;
+    margin-left: 180px;
+    background-image: none;
+}
+nav3{
+    height: 60px;
+    background-image: none;
+    color:white;
+    display:flex;  /*this is used so that every thing come in a straight line in the navbar*/
+    align-items:center;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+.third{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-image: none;
+}
+.cac{
+    border: 3px solid white;
+    border-radius: 25px;
+    padding: 5px 40px;
+    background-color: #1fc930;
+    background-image: none;
+}
+.cac h2{
+    background-color:#1fc930;
+    background-image: none;
+}
+.cacs{
+    margin-left: 0px;
+    background-image: none;
+}
+.cace{
+    margin-left: 470px;
+    background-image: none;
+}

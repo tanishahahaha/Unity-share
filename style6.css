@@ -1,0 +1,61 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    background: url(bg.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:100vh;
+}
+.navG{
+    background-color: #1FC930;
+    height: 80px;
+    font-size: 100px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    font-family: "Jomhuria", serif;
+color: white;
+}
+.min{
+    color: white;
+    display: flex;
+justify-content: center;}
+
+.l1{
+    margin-right: 500px;
+    margin-top: 80px;
+    font-size: 70px;
+    color: #1FC930;
+    font-family: "Jomhuria", serif;
+}
+.l2{    margin-top: 80px;
+    font-size:70px ;
+    color: #1FC930;
+    font-family: "Jomhuria", serif;
+
+}
+.r1{
+    border: 4px white solid;
+    height: 400px;
+    width: 500px;
+    margin-left: 80px;
+    margin-right: 420px;
+    border-radius: 20px;
+    background-image: url(QR.jpg);
+    background-size: cover; /* Cover will make the image cover the entire container */
+    background-position: center; 
+}
+.r2{
+    border: 4px white solid;
+    height: 400px;
+    width: 400px;
+    margin-left: rightpx;
+    border-radius: 20px;
+}
+.sec{
+    display: flex;
+}
